@@ -5,6 +5,8 @@ First Come First Serve (FCFS) is an operating system scheduling algorithm that a
 
 It is the easiest and simplest CPU scheduling algorithm.
 
+This code is in python programming language.
+
 ## Characteristics of FCFS method ##
 
 It supports non-preemptive and pre-emptive scheduling algorithm.
